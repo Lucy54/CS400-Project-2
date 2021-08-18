@@ -3,6 +3,8 @@ Lakers Players Database
 
 Project Title: <Rating Database for the Los Angeles Lakers’ Players >
 
+# Proposal Link: https://docs.google.com/document/d/1F-Il-oKH3ns0SkwQHssKK_VTG6dfTTASXbf0xyQByfs/edit?usp=sharing
+
 Brief Project Description:
 <brief project description here: 1) what will the app that you are developing do, and 2) who would use an application like this and why>
 
